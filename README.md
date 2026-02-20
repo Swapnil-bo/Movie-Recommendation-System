@@ -30,3 +30,5 @@ streamlit run app.py
 
 ## Dataset
 [MovieLens Small](https://grouplens.org/datasets/movielens/latest/) — 100,000 ratings across 9,000 movies.
+
+Hope y'all like it. 
